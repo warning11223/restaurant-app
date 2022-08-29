@@ -1,4 +1,4 @@
-## See app here - https://gleeful-yeot-5cd2eb.netlify.app/
+## See app here - https://regal-sundae-40261b.netlify.app/
 
 # 🛠 Технологии:
 
